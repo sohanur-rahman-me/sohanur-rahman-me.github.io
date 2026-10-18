@@ -22,7 +22,7 @@ The portfolio is built as a responsive, static website in `index.html`, using HT
 
 ## Before sharing widely
 - Verify the profile photo, contact email, LinkedIn URL, CGPA, graduation date, and all project details.
-- Add downloadable PDF versions of the academic and professional CVs, certificates, and publication only after reviewing the files for personal contact details and permission to share.
+- The CV pages are web-based summaries with a **Print / Save as PDF** option. Before formal applications, review each CV and save a tailored PDF. Add certificate and publication downloads only after reviewing the files for personal contact details and permission to share.
 - Add ORCID / Google Scholar links once those profiles are ready.
 - Update thesis results only after the experiments and analysis are complete.
 
